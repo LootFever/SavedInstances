@@ -94,7 +94,6 @@ local currency = {
 
   -- Dragonflight
   2003, -- Dragon Isles Supplies
-  2245, -- Flightstones
   2123, -- Bloody Tokens
   2797, -- Trophy of Strife
   2045, -- Dragon Glyph Embers
@@ -119,7 +118,6 @@ local currency = {
   2803, -- Undercoin
   2815, -- Resonance Crystals
   3056, -- Kej
-  3008, -- Valorstones
   2813, -- Harmonized Silk
   3023, -- 11.0 Professions - Personal Tracker - S1 Spark Drops (Hidden)
   3100, -- Bronze Celebration Token
