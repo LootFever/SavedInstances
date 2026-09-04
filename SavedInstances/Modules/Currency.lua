@@ -96,7 +96,6 @@ local currency = {
   2003, -- Dragon Isles Supplies
   2123, -- Bloody Tokens
   2797, -- Trophy of Strife
-  2045, -- Dragon Glyph Embers
   2118, -- Elemental Overflow
   2122, -- Storm Sigil
   2413, -- 10.1 Professions - Personal Tracker - S2 Spark Drops (Hidden)
